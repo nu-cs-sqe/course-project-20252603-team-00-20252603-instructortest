@@ -3,7 +3,7 @@
 
 ## Contributors
 - Test Change 1
-- PERSON
+- change
 
 ## Dependencies
 - JDK 11
